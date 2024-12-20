@@ -3,3 +3,4 @@ ipykernel
 tqdm
 sentence-transformers
 matplotlib
+fastapi
